@@ -1,0 +1,86 @@
+.head-nav {
+    /* height: 50px; */
+    /* text-align: center;
+    align-items: center; */
+    margin-left: 50px;
+    /* color: red; */
+    font-weight: 500;
+    font-size: large;
+
+
+    .head-dropdown {
+        font-weight: 200;
+        font-size: medium;
+        margin-left: 50px;
+
+
+    }
+
+    .login-dropdown {
+        font-weight: 200;
+        font-size: medium;
+        margin-left: 400px;
+
+
+    }
+
+    .shortlist {
+        background-color: rgb(225, 225, 226);
+        border-radius: 50px;
+    }
+
+    .post-property {
+        background-color: rgb(250, 217, 72);
+        border-radius: 50px;
+        font-weight: 200;
+        font-size: medium;
+        margin-left: 50px;
+
+
+        span {
+            background-color: aliceblue;
+            font-size: small;
+            border-radius: 50px;
+            width: 200px;
+            padding: 2px;
+        }
+    }
+}
+
+.second-nav {
+    .buy {
+        background-color: rgb(255, 255, 255);
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+        width: 70px;
+        height: 38px;
+        /* font-weight: 200; */
+        font-size: small;
+    }
+
+    .form-control {
+        border-top-left-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+        font-weight: 500;
+        font-size: small;
+        height: 38px;
+    }
+
+    .top-localities {
+        /* width: 150px; */
+        background-color: white;
+        border-radius: 50px;
+        font-weight: 500;
+        font-size: small;
+        margin-left: 50px;
+
+    }
+
+
+
+
+
+
+}
