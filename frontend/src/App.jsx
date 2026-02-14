@@ -1,11 +1,12 @@
 
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 
 
 import Navbar from './components/Navbar/Navbar'
+// import CardDetails from './pages/CardDetails/CardDetails'
+import CardPage from './pages/CardPage/CardPage'
+
 
 
 function App() {
@@ -13,8 +14,16 @@ function App() {
 
   return (
     <>
-     {/* <h1>Hello</h1> */}
+     <header>
      <Navbar />
+     </header>
+     <main>
+      <CardPage/>
+      {/* <CardDetails/> */}
+     </main>
+     <footer>
+
+     </footer>
     </>
   )
 }
